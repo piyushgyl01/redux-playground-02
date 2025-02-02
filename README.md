@@ -1,2 +1,2 @@
 # redux-playground-02
-Created with CodeSandbox
+Tinkering with Redux using react js
